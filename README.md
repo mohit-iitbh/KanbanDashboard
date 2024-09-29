@@ -16,8 +16,8 @@ Users should also be able to sort the displayed tickets in two ways:
 
 ## Steps to Reproduce
 
-1. Clone the repository `git clone https://github.com/mohit-iitbh/Kanban_dashboard`
-2. Change the current directory`cd Kanban_dashboard`
+1. Clone the repository `git clone https://github.com/mohit-iitbh/KanbanDashboard`
+2. Change the current directory`cd KanbanDashboard`
 3. Install the node packages `npm i`
 4. Create a .env file with `REACT_APP_TICKET_URL = https://api.quicksell.co/v1/internal/frontend-assignment`
 5. Start the development Server `npm start`
