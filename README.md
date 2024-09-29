@@ -21,3 +21,7 @@ Users should also be able to sort the displayed tickets in two ways:
 3. Install the node packages `npm i`
 4. Create a .env file with `REACT_APP_TICKET_URL = https://api.quicksell.co/v1/internal/frontend-assignment`
 5. Start the development Server `npm start`
+
+## Kanban Dashboard view
+![image](https://github.com/user-attachments/assets/d6f743dc-e13a-4613-a3a1-e70ed68243d6)
+
